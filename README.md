@@ -14,7 +14,7 @@ This repository contains the complete pipeline for the non-invasive prediction o
 
 ## Author
 
-**Rafael Boava Souza, MD** *Radiology Resident | Neuroradiology & AI Research*
+**Rafael Boava Souza, MD** *Diagnostic Radiology Resident*
 
 * **Current Affiliation:** Federal University of São Paulo (**UNIFESP**), Brazil.
 ---
@@ -56,11 +56,11 @@ Performance comparison between habitats with DeLong statistical validation.
 
 ### LASSO Feature Importance
 Top 10 radiomic predictors identified by LASSO for both Tumor Core and Peritumoral Edema.
-![LASSO Feature Importance](results/lasso_feature_importance.png)
+![LASSO Feature Importance](results/feature_importance.png)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 * `MGMT_Prediction_Optimized_Pipeline.ipynb`: Main notebook with LASSO selection, training, and benchmarking.
 * `/results`: 
     * `comparative_roc_curve.png`: Dual ROC curves (Core vs. Edema) including DeLong p-value.
