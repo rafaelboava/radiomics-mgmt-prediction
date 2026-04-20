@@ -1,5 +1,5 @@
-# MGMT Prediction Pipeline - Environment Dependencies
-# Validated on Python 3.12.13
+# MGMT Prediction Pipeline - Essential Dependencies
+# Validated on Python 3.12.13 (Google Colab Environment)
 
 numpy==2.0.2
 pandas==2.2.2
