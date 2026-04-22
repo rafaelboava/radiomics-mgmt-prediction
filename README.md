@@ -1,4 +1,4 @@
-# Habitat-Based Radiomics for MGMT Prediction in Glioblastoma
+# Reproducible Habitat-Based Radiomics for MGMT Prediction (BraTS 2021)
 
 ---
 *Developed as a digital initiative to integrate Artificial Intelligence and predictive molecular modeling into clinical neuroradiology.*
